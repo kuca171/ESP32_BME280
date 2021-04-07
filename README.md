@@ -6,4 +6,4 @@ Example using ESP32 with BME280 temperature, humidity and pressure sensor
   
   https://github.com/adafruit/Adafruit_Sensor
   
-  For more information visit: 
+  For more information visit: https://kucadevelopment.wordpress.com/?p=218
